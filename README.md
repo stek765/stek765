@@ -21,11 +21,17 @@ A WebApp designed to help bars and musicians organize live music events, complet
 
 ### 3. Progetto-Assembly & C Programming Journey with Semaphore Project
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/1cba3624-3aa7-4c07-b6f8-da799b790a52" alt="Assembly" width="35%" />
-  <div style="width: 20%;"></div>
-  <img src="https://github.com/user-attachments/assets/985a7e5b-b71a-400a-9c64-051c9d37eed3" alt="connect_four_final" width="35%" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="40%">
+      <img src="https://github.com/user-attachments/assets/1cba3624-3aa7-4c07-b6f8-da799b790a52" alt="Assembly" width="90%" />
+    </td>
+    <td width="20%"></td>
+    <td align="center" width="40%">
+      <img src="https://github.com/user-attachments/assets/985a7e5b-b71a-400a-9c64-051c9d37eed3" alt="connect_four_final" width="90%" />
+    </td>
+  </tr>
+</table>
 
 
 <p align="center" >
