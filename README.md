@@ -16,7 +16,7 @@ An implementation of the Pretty Good Privacy (PGP) protocol for sending emails s
 A WebApp designed to help bars and musicians organize live music events, complete with tourist information.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ef24f299-c2a9-449b-860f-5a0a63efdde8" />
+<img src="https://github.com/user-attachments/assets/ef24f299-c2a9-449b-860f-5a0a63efdde8" alt="Stage" width="800" />
 </p>
 
 
