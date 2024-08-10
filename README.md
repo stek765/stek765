@@ -19,13 +19,20 @@ A WebApp designed to help bars and musicians organize live music events, complet
 <img src="https://github.com/user-attachments/assets/ef24f299-c2a9-449b-860f-5a0a63efdde8" alt="Stage" width="650" />
 </p>
 
-
 ### 3. [Progetto-Assembly](https://github.com/stek765/Progetto-Assembly) & C Programming Journey with Semaphore Project
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1cba3624-3aa7-4c07-b6f8-da799b790a52" alt="Assembly" width="49%" />
-<img src="https://github.com/user-attachments/assets/985a7e5b-b71a-400a-9c64-051c9d37eed3" alt="connect_four_final" width="49%" />
+  <img src="https://github.com/user-attachments/assets/1cba3624-3aa7-4c07-b6f8-da799b790a52" alt="Assembly" width="47%" />
+  <span style="display:inline-block; width: 2%;"></span> <!-- Linea di separazione -->
+  <img src="https://github.com/user-attachments/assets/985a7e5b-b71a-400a-9c64-051c9d37eed3" alt="connect_four_final" width="47%" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/stek765/Progetto-Assembly">Progetto-Assembly Repository</a> | 
+  <a href="https://github.com/stek765/How-to-C">How-to-C Repository</a> | 
+  <a href="https://github.com/stek765/Progetto-Sistemi-Operativi">Progetto Sistemi Operativi Repository</a>
+</p>
+
 
 
 ### 4. [Script-Testing](https://github.com/stek765/Script-Testing)
