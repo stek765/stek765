@@ -42,10 +42,12 @@ A WebApp designed to help bars and musicians organize live music events, complet
 
 
 
-### 4. [Script-Testing](https://github.com/stek765/Script-Testing)
+### 4. [Script-Testing](https://github.com/stek765/Script-Testing) (Private one for now)
 A collection of scripts for automating tasks and enhancing security, with a focus on learning and testing new scripting techniques.
 
-![Script Testing](https://user-images.githubusercontent.com/path/to/image.png)
+![scripting_concept](https://github.com/user-attachments/assets/d8908aff-5f37-4ae6-bb33-dec573017581)
+
+
 
 ## 📈 GitHub Stats
 
@@ -53,14 +55,14 @@ A collection of scripts for automating tasks and enhancing security, with a focu
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: C, Assembly, Python, JavaScript
+- **Languages**: C, Assembly, Python, JavaScript, Java, HTML, CSS.  (Learning ZIG)
 - **Tools**: Git, Docker, GnuPG, Makefile
-- **Frameworks**: Flask, Node.js
+- **Frameworks**: Flask, Node.js, Electron. 
 
 ## 📫 Get in Touch
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Stefano Zanolli](https://www.linkedin.com/in/yourprofile)
+- **Email**: [stefanozanolli765@gmail.com](mailto:stefanozanolli765@gmail.com)
+- **LinkedIn**:  / 
 
 ---
 
