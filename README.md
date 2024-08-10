@@ -27,6 +27,12 @@ A project focused on Assembly language, showcasing the use of Makefile for proje
 <img src="https://github.com/user-attachments/assets/1cba3624-3aa7-4c07-b6f8-da799b790a52" alt="Assembly" width="300" />
 </p>
 
+### 4. C Programming Journey & Semaphore Project
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/985a7e5b-b71a-400a-9c64-051c9d37eed3" alt="connect_four_final" width="50%" />
+<img src="https://github.com/user-attachments/assets/985a7e5b-b71a-400a-9c64-051c9d37eed3" alt="Progetto Semaphore" width="50%" />
+</p>
 
 
 ### 4. [Script-Testing](https://github.com/stek765/Script-Testing)
