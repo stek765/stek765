@@ -45,7 +45,9 @@ A WebApp designed to help bars and musicians organize live music events, complet
 ### 4. [Script-Testing](https://github.com/stek765/Script-Testing) (PRIVATE for now)
 A collection of scripts for automating tasks and enhancing security, with a focus on learning and testing new scripting techniques.
 
-![scripting_concept](https://github.com/user-attachments/assets/d8908aff-5f37-4ae6-bb33-dec573017581)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d8908aff-5f37-4ae6-bb33-dec573017581" alt="Script" width="200"/>
+</p>
 
 
 
