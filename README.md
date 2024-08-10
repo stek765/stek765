@@ -2,7 +2,7 @@
 
 I'm a software developer with a passion for creating efficient and secure software solutions. Below, you'll find some of my key projects that demonstrate my skills in various programming languages and frameworks.
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
 ### 1. [PGP-implementation](https://github.com/stek765/PGP-implementation)
 An implementation of the Pretty Good Privacy (PGP) protocol for sending emails securely, ensuring **Confidentiality, Integrity, and Authenticity**.
@@ -42,7 +42,7 @@ A WebApp designed to help bars and musicians organize live music events, complet
 
 
 
-### 4. [Script-Testing](https://github.com/stek765/Script-Testing) (Private one for now)
+### 4. [Script-Testing](https://github.com/stek765/Script-Testing) (PRIVATE for now)
 A collection of scripts for automating tasks and enhancing security, with a focus on learning and testing new scripting techniques.
 
 ![scripting_concept](https://github.com/user-attachments/assets/d8908aff-5f37-4ae6-bb33-dec573017581)
@@ -57,7 +57,7 @@ A collection of scripts for automating tasks and enhancing security, with a focu
 
 - **Languages**: C, Assembly, Python, JavaScript, Java, HTML, CSS.  (Learning ZIG)
 - **Tools**: Git, Docker, GnuPG, Makefile
-- **Frameworks**: Flask, Node.js, Electron. 
+- **Frameworks**: Flask, Node.js, Electron.
 
 ## 📫 Get in Touch
 
