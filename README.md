@@ -27,7 +27,7 @@ A WebApp designed to help bars and musicians organize live music events, complet
   <img src="https://github.com/user-attachments/assets/985a7e5b-b71a-400a-9c64-051c9d37eed3" alt="connect_four_final" width="35%" />
 </p>
 
-<p align="center">
+<p >
   <a href="https://github.com/stek765/Progetto-Assembly">Progetto-Assembly Repository</a> | 
   <a href="https://github.com/stek765/How-to-C">How-to-C Repository</a> | 
   <a href="https://github.com/stek765/Progetto-Sistemi-Operativi">Progetto Sistemi Operativi Repository</a>
