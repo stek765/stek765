@@ -24,7 +24,7 @@ A WebApp designed to help bars and musicians organize live music events, complet
 A project focused on Assembly language, showcasing the use of Makefile for project compilation.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b1822282-685f-4bc2-9e13-1b593e8aca5a" alt="Assembly" width="300" />
+<img src="https://github.com/user-attachments/assets/1cba3624-3aa7-4c07-b6f8-da799b790a52" alt="Assembly" width="300" />
 </p>
 
 
