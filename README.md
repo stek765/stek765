@@ -15,7 +15,10 @@ An implementation of the Pretty Good Privacy (PGP) protocol for sending emails s
 ### 2. [Stage-Project](https://github.com/stek765/Stage-Project)
 A WebApp designed to help bars and musicians organize live music events, complete with tourist information.
 
-![Stage Project](https://user-images.githubusercontent.com/path/to/image.png)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ef24f299-c2a9-449b-860f-5a0a63efdde8" alt="PGP Illustration" width="400"/>
+</p>
+
 
 ### 3. [Progetto-Assembly](https://github.com/stek765/Progetto-Assembly)
 A project focused on Assembly language, showcasing the use of Makefile for project compilation.
