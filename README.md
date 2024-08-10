@@ -23,7 +23,11 @@ A WebApp designed to help bars and musicians organize live music events, complet
 ### 3. [Progetto-Assembly](https://github.com/stek765/Progetto-Assembly)
 A project focused on Assembly language, showcasing the use of Makefile for project compilation.
 
-![Assembly Project](https://user-images.githubusercontent.com/path/to/image.png)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b1822282-685f-4bc2-9e13-1b593e8aca5a" alt="Assembly" width="300" />
+</p>
+
+
 
 ### 4. [Script-Testing](https://github.com/stek765/Script-Testing)
 A collection of scripts for automating tasks and enhancing security, with a focus on learning and testing new scripting techniques.
