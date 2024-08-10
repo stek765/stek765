@@ -7,7 +7,8 @@ I'm a software developer with a passion for creating efficient and secure softwa
 ### 1. [PGP-implementation](https://github.com/stek765/PGP-implementation)
 An implementation of the Pretty Good Privacy (PGP) protocol for sending emails securely, ensuring **Confidentiality, Integrity, and Authenticity**.
 
-![PGP Implementation](https://user-images.githubusercontent.com/path/to/image.png)
+![PGP Logo](https://github.com/user-attachments/assets/d9ecd708-5c93-4a40-9fce-7692efc4bd15)
+
 
 ### 2. [Stage-Project](https://github.com/stek765/Stage-Project)
 A WebApp designed to help bars and musicians organize live music events, complete with tourist information.
