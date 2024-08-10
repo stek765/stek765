@@ -2,6 +2,10 @@
 
 I'm a software developer with a passion for creating efficient and secure software solutions. Below, you'll find some of my key projects that demonstrate my skills in various programming languages and frameworks.
 
+- - - - - - - - - - - - -
+
+
+
 ## 📂 Featured Projects
 
 ### 1. [PGP-implementation](https://github.com/stek765/PGP-implementation)
@@ -9,6 +13,9 @@ An implementation of the Pretty Good Privacy (PGP) protocol for sending emails s
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5e3541e9-1381-4b5c-90bd-16692bc833a6" alt="PGP Illustration" width="400"/>
 </p>
+- - - - - - - - - - - - -
+
+
 
 
 
@@ -18,6 +25,10 @@ A WebApp designed to help bars and musicians organize live music events, complet
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ef24f299-c2a9-449b-860f-5a0a63efdde8" alt="Stage" width="650" />
 </p>
+- - - - - - - - - - - - -
+
+
+
 
 ### 3. Progetto-Assembly & C Programming Journey with Semaphore Project
 
@@ -39,6 +50,7 @@ A WebApp designed to help bars and musicians organize live music events, complet
   <a href="https://github.com/stek765/How-to-C">How-to-C Repository</a> | 
   <a href="https://github.com/stek765/Progetto-Sistemi-Operativi">Progetto Sistemi Operativi Repository</a>
 </p>
+- - - - - - - - - - - - -
 
 
 
