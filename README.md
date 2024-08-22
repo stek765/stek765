@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Stefano Zanolli (stek765)
 
-I'm a software developer based in Italy, with a passion for creating efficient and secure software solutions. Below, you'll find some of my key projects that demonstrate my skills in various programming languages and frameworks.
+I'm a software developer based in Italy, with a passion for creating  software solutions. Below, you'll find some of my key projects where i try to use various programming languages and frameworks.
 
 ---
 
