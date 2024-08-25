@@ -11,7 +11,7 @@ I'm a software developer based in Italy, with a passion for creating  software s
 ### 1. [PGP-implementation](https://github.com/stek765/PGP-implementation)
 An implementation of the Pretty Good Privacy (PGP) protocol for sending emails securely, ensuring **Confidentiality, Integrity, and Authenticity**.
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5e3541e9-1381-4b5c-90bd-16692bc833a6" alt="PGP Illustration" width="800"/>
+<img src="https://github.com/user-attachments/assets/5e3541e9-1381-4b5c-90bd-16692bc833a6" alt="PGP Illustration" width="400"/>
 </p>
 <hr>
 
@@ -20,7 +20,7 @@ An implementation of the Pretty Good Privacy (PGP) protocol for sending emails s
 ### 2. [WebSite Professional](https://github.com/stek765/PGP-implementation)
 A specialized eCommerce platform tailored for a company that sells tropical aquarium fish exclusively to wholesalers.
 <p align="center">
-<img src="https://github.com/user-attachments/assets/6564965e-15c1-4a79-b6c2-b90875da62da" alt="Serra" width="400"/>
+<img src="https://github.com/user-attachments/assets/6564965e-15c1-4a79-b6c2-b90875da62da" alt="Serra" width="650"/>
 </p>
 <hr>
 
