@@ -17,9 +17,19 @@ An implementation of the Pretty Good Privacy (PGP) protocol for sending emails s
 
 
 
+### 2. [WebSite Professional](https://github.com/stek765/PGP-implementation)
+A specialized eCommerce platform tailored for a company that sells tropical aquarium fish exclusively to wholesalers.
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6564965e-15c1-4a79-b6c2-b90875da62da" alt="Serra" width="400"/>
+</p>
+<hr>
 
 
-### 2. [Stage-Project](https://github.com/stek765/Stage-Project)
+
+
+
+
+### 3. [Stage-Project](https://github.com/stek765/Stage-Project)
 A WebApp designed to help bars and musicians organize live music events, complete with tourist information.
 
 <p align="center">
@@ -30,7 +40,7 @@ A WebApp designed to help bars and musicians organize live music events, complet
 
 
 
-### 3. Progetto-Assembly & C Programming Journey with Semaphore Project
+### 4. Progetto-Assembly & C Programming Journey with Semaphore Project
 
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
@@ -54,7 +64,7 @@ A WebApp designed to help bars and musicians organize live music events, complet
 
 
 
-### 4. [Script-Testing](https://github.com/stek765/Script-Testing) (PRIVATE for now)
+### 5. [Script-Testing](https://github.com/stek765/Script-Testing) (PRIVATE for now)
 A collection of scripts for automating tasks and enhancing security, with a focus on learning and testing new scripting techniques.
 
 <p align="center">
