@@ -17,7 +17,7 @@ An implementation of the Pretty Good Privacy (PGP) protocol for sending emails s
 
 
 
-### 2. [WebSite Professional](https://github.com/stek765/Serra)
+### 2. [WebSite Professional](https://github.com/stek765/Serra) (Private to protect the company)
 A specialized eCommerce platform tailored for a company that sells tropical aquarium fish exclusively to wholesalers.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/6564965e-15c1-4a79-b6c2-b90875da62da" alt="Serra" width="650"/>
