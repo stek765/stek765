@@ -4,9 +4,13 @@
     <h1>👋 Hi, I'm Stefano Zanolli (stek765)</h1>
     <p>I'm a software developer based in Italy, with a passion for creating software solutions. Below, you'll find some of my key projects where I try to use various programming languages and frameworks.</p>
   </div>
-   </div>
-<img src="https://github.com/user-attachments/assets/77754f7b-f887-4ad2-8c01-3cc2a6a550e0" alt="mem1" width="400"/>
-<img src="https://github.com/user-attachments/assets/bb5b15bf-c49f-42cb-b2f3-80b49244f3f3" alt="mem2" width="400"/>
+  
+  <div style="display: flex; flex-direction: column; align-items: center; margin-left: 20px;">
+    <img src="https://github.com/user-attachments/assets/77754f7b-f887-4ad2-8c01-3cc2a6a550e0" alt="mem1" width="200"/>
+    <img src="https://github.com/user-attachments/assets/bb5b15bf-c49f-42cb-b2f3-80b49244f3f3" alt="mem2" width="200" style="margin-top: 10px;"/>
+  </div>
+
+</div>
 
 
 
