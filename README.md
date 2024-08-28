@@ -7,7 +7,7 @@
   
   <div style="display: flex; flex-direction: column; align-items: center; margin-left: 20px;">
     <img src="https://github.com/user-attachments/assets/acdaa6b4-f522-4881-b127-0b98271ac157" alt="mem2" width="400"  style="margin-top: 10px;"/>
-   <img src="https://github.com/user-attachments/assets/77754f7b-f887-4ad2-8c01-3cc2a6a550e0" alt="mem1" width="365"/>
+   <img src="https://github.com/user-attachments/assets/77754f7b-f887-4ad2-8c01-3cc2a6a550e0" alt="mem1" width="380"/>
   </div>
 
 </div>
