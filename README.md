@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Stefano Zanolli (stek765)
+# 👋 Hi, I'm Stefano Zanolli (stek765) ![profile GIF](https://github.com/username/asset/repository/gif.gif)
 
-I'm a software developer based in Italy, with a passion for creating  software solutions. Below, you'll find some of my key projects where i try to use various programming languages and frameworks.
+I'm a software developer based in Italy, with a passion for creating software solutions. Below, you'll find some of my key projects where I try to use various programming languages and frameworks.
 
 ---
-
-
 
 ## 📂 Featured Projects
 
@@ -15,8 +13,6 @@ An implementation of the Pretty Good Privacy (PGP) protocol for sending emails s
 </p>
 <hr>
 
-
-
 ### 2. [WebSite Professional](https://github.com/stek765/Serra) (Private to protect the company)
 A specialized eCommerce platform tailored for a company that sells tropical aquarium fish exclusively to wholesalers.
 <p align="center">
@@ -24,24 +20,14 @@ A specialized eCommerce platform tailored for a company that sells tropical aqua
 </p>
 <hr>
 
-
-
-
-
-
 ### 3. [Stage-Project](https://github.com/stek765/Stage-Project)
 A WebApp designed to help bars and musicians organize live music events, complete with tourist information.
-
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ef24f299-c2a9-449b-860f-5a0a63efdde8" alt="Stage" width="650" />
 </p>
 <hr>
 
-
-
-
 ### 4. Progetto-Assembly & C Programming Journey with Semaphore Project
-
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td align="center" width="40%" style="border: none;">
@@ -54,26 +40,19 @@ A WebApp designed to help bars and musicians organize live music events, complet
   </tr>
 </table>
 
-
-<p align="center" >
+<p align="center">
   <a href="https://github.com/stek765/Progetto-Assembly">Progetto-Assembly Repository</a> | 
   <a href="https://github.com/stek765/How-to-C">How-to-C Repository</a> | 
   <a href="https://github.com/stek765/Progetto-Sistemi-Operativi">Progetto Sistemi Operativi Repository</a>
 </p>
 <hr>
 
-
-
 ### 5. [Script-Testing](https://github.com/stek765/Script-Testing) (PRIVATE for now)
 A collection of scripts for automating tasks and enhancing security, with a focus on learning and testing new scripting techniques.
-
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d8908aff-5f37-4ae6-bb33-dec573017581" alt="Script" width="200"/>
 </p>
-
 <hr>
-
-
 
 ## 📈 GitHub Stats
 
@@ -81,14 +60,14 @@ A collection of scripts for automating tasks and enhancing security, with a focu
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: C, Assembly, Python, JavaScript, Java, HTML, CSS.  (Learning ZIG)
-- **Tools**: Git, Docker, GnuPG, Makefile
-- **Frameworks**: Flask, Node.js, Electron.
+- **Languages**: ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-blue?style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GnuPG](https://img.shields.io/badge/-GnuPG-0093DD?style=flat&logo=gnupg&logoColor=white) ![Makefile](https://img.shields.io/badge/-Makefile-5C3EE8?style=flat&logo=makefile&logoColor=white)
+- **Frameworks**: ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 ## 📫 Get in Touch
 
 - **Email**: [stefanozanolli765@gmail.com](mailto:stefanozanolli765@gmail.com)
-- **LinkedIn**:  / 
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)
 
 ---
 
