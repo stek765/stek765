@@ -72,6 +72,7 @@ A collection of scripts for automating tasks and enhancing security, with a focu
 <br>
 
 ## 📫 Get in Touch
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/stefano-zanolli-76616b206/" target="_blank">
