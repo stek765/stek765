@@ -5,6 +5,7 @@
     <p>I'm a software developer based in Italy, with a passion for creating software solutions. Below, you'll find some of my key projects where I try to use various programming languages and frameworks.</p>
   </div>
    </div>
+<img src="https://github.com/user-attachments/assets/77754f7b-f887-4ad2-8c01-3cc2a6a550e0" alt="PGP Illustration" width="400"/>
 
 
 
