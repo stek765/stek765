@@ -1,6 +1,13 @@
-| ![profile GIF](https://github.com/username/asset/repository/gif.gif) | # 👋 Hi, I'm Stefano Zanolli (stek765)  |
-|:---:|:---|
-| | I'm a software developer based in Italy, with a passion for creating software solutions. Below, you'll find some of my key projects where I try to use various programming languages and frameworks. |
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h1>👋 Hi, I'm Stefano Zanolli (stek765)</h1>
+    <p>I'm a software developer based in Italy, with a passion for creating software solutions. Below, you'll find some of my key projects where I try to use various programming languages and frameworks.</p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://github.com/username/asset/repository/gif.gif" alt="profile GIF" style="width: 300px;"/>
+  </div>
+</div>
+
 
 
 ---
