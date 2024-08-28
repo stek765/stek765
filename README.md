@@ -67,8 +67,23 @@ A collection of scripts for automating tasks and enhancing security, with a focu
 
 ## 📫 Get in Touch
 
-- **Email**: [stefanozanolli765@gmail.com](mailto:stefanozanolli765@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)
+<p align="center">
+  <a href="https://linkedin.com/in/tuo-profilo" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tuo-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/tuo-username" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/tuo-username" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tuo-username" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
