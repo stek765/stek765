@@ -6,13 +6,13 @@
   </div>
   
   <div style="display: flex; flex-direction: column; align-items: center; margin-left: 20px;">
-    <img src="https://github.com/user-attachments/assets/dc88015a-57eb-4c9a-af99-1e549be60365" alt="mem2" width="500" style="margin-top: 10px;"/>
+    <img src="https://github.com/user-attachments/assets/bb5b15bf-c49f-42cb-b2f3-80b49244f3f3" alt="mem2" width="500" style="margin-top: 10px;"/>
    <img src="https://github.com/user-attachments/assets/77754f7b-f887-4ad2-8c01-3cc2a6a550e0" alt="mem1" width="330"/>
   </div>
 
 </div>
 
-https://github.com/user-attachments/assets/bb5b15bf-c49f-42cb-b2f3-80b49244f3f3
+
 
 
 ---
