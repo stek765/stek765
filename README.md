@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Stefano Zanolli (stek765) ![profile GIF](https://github.com/username/asset/repository/gif.gif)
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/username/asset/repository/gif.gif" alt="profile GIF" width="100" style="margin-right: 20px;"/>
+  <div>
+    <h1>👋 Hi, I'm Stefano Zanolli (stek765)</h1>
+    <p>I'm a software developer based in Italy, with a passion for creating software solutions. Below, you'll find some of my key projects where I try to use various programming languages and frameworks.</p>
+  </div>
+</div>
 
-I'm a software developer based in Italy, with a passion for creating software solutions. Below, you'll find some of my key projects where I try to use various programming languages and frameworks.
-
----
 
 ## 📂 Featured Projects
 
@@ -63,7 +66,7 @@ A collection of scripts for automating tasks and enhancing security, with a focu
 - **Languages**: ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-blue?style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) !
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
 
