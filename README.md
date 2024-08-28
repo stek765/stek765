@@ -1,14 +1,15 @@
-<table>
-  <tr>
-    <td>
-      <h1>👋 Hi, I'm Stefano Zanolli (stek765)</h1>
-      <p>I'm a software developer based in Italy, with a passion for creating software solutions. Below, you'll find some of my key projects where I try to use various programming languages and frameworks.</p>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/e7a760ad-dd22-4003-9db3-b46e83b9c988" alt="profile GIF" style="width: 200px;"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+
+  <div style="flex: 1;">
+    <h1>👋 Hi, I'm Stefano Zanolli (stek765)</h1>
+    <p>I'm a software developer based in Italy, with a passion for creating software solutions. Below, you'll find some of my key projects where I try to use various programming languages and frameworks.</p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/e7a760ad-dd22-4003-9db3-b46e83b9c988" alt="profile GIF" style="max-width: 300px; border-radius: 10px;"/>
+  </div>
+
+</div>
 
 
 
