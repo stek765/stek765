@@ -1,9 +1,9 @@
-![profile GIF](https://github.com/username/asset/repository/gif.gif)  # 👋 Hi, I'm Stefano Zanolli (stek765)
+| ![profile GIF](https://github.com/username/asset/repository/gif.gif) | # 👋 Hi, I'm Stefano Zanolli (stek765)  |
+|:---:|:---|
+| | I'm a software developer based in Italy, with a passion for creating software solutions. Below, you'll find some of my key projects where I try to use various programming languages and frameworks. |
 
-I'm a software developer based in Italy, with a passion for creating software solutions. Below, you'll find some of my key projects where I try to use various programming languages and frameworks.
 
-
-
+---
 ## 📂 Featured Projects
 
 ### 1. [PGP-implementation](https://github.com/stek765/PGP-implementation)
