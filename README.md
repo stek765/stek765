@@ -69,6 +69,7 @@ A collection of scripts for automating tasks and enhancing security, with a focu
 
 - **Frameworks**: ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 
+<br>
 
 ## 📫 Get in Touch
 
