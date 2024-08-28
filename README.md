@@ -3,11 +3,12 @@
   <div style="flex: 1;">
     <h1>👋 Hi, I'm Stefano Zanolli (stek765)</h1>
     <p>I'm a software developer based in Italy, with a passion for creating software solutions. Below, you'll find some of my key projects where I try to use various programming languages and frameworks.</p>
-  </div>
-
-  <div style="margin-left: 20px;">
+    <div style="margin-left: 20px;">
     <img src="https://github.com/user-attachments/assets/e7a760ad-dd22-4003-9db3-b46e83b9c988" alt="profile GIF" style="width: 300px; height: auto; border-radius: 10px;"/>
   </div>
+  </div>
+
+  
 
 </div>
 
