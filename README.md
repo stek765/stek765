@@ -5,10 +5,11 @@
       <p>I'm a software developer based in Italy, with a passion for creating software solutions. Below, you'll find some of my key projects where I try to use various programming languages and frameworks.</p>
     </td>
     <td>
-      <img src="https://github.com/username/asset/repository/gif.gif" alt="profile GIF" style="width: 200px;"/>
+      <img src="[https://github.com/username/asset/repository/gif.gif](https://github.com/user-attachments/assets/cc5f4386-694b-446d-b178-3e44870d4ddb)" alt="profile GIF" style="width: 200px;"/>
     </td>
   </tr>
 </table>
+
 
 
 
