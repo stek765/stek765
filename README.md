@@ -62,7 +62,7 @@ A WebApp designed to help bars and musicians organize live music events, complet
 ### 5. [Calory-App](https://github.com/stek765/Calory-App) 
 Calory App to connect to fat secret and scrape searched foods Nutritional Facts in a cool way + make propotions
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0983c65b-0ee6-4094-8fc7-1e5c219caefa" alt="Script" width="200"/>
+<img src="https://github.com/user-attachments/assets/0983c65b-0ee6-4094-8fc7-1e5c219caefa" alt="Script" width="500"/>
 </p>
 <hr>
 
