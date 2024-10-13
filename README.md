@@ -6,7 +6,9 @@
   </div>
   
   <div style="display: flex; flex-direction: column; align-items: center; margin-left: 20px;">
-   ---
+   <img src="https://github.com/user-attachments/assets/77754f7b-f887-4ad2-8c01-3cc2a6a550e0" alt="mem1" width="373"/>
+  </div>
+      ---
 ## 🛠️ Technologies & Tools
 
 - **Languages**: ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-blue?style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -22,10 +24,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stek765&layout=compact)
 
-
-
-   <img src="https://github.com/user-attachments/assets/77754f7b-f887-4ad2-8c01-3cc2a6a550e0" alt="mem1" width="373"/>
-  </div>
 
 </div>
 
