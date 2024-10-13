@@ -5,10 +5,19 @@
     <p>Below, you'll find some of my key projects where I try to use various programming languages and frameworks.</p>
   </div>
   
-  <div style="display: flex; flex-direction: column; align-items: center; margin-left: 20px;">
-    <img src="https://github.com/user-attachments/assets/acdaa6b4-f522-4881-b127-0b98271ac157" alt="mem2" width="400"  style="margin-top: 10px;"/>
-   <img src="https://github.com/user-attachments/assets/77754f7b-f887-4ad2-8c01-3cc2a6a550e0" alt="mem1" width="373"/>
-  </div>
+  ---
+## 🛠️ Technologies & Tools
+
+- **Languages**: ¬  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-blue?style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+
+- **Tools**: ¬  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stek765&layout=compact)
+
 
 </div>
 
@@ -65,19 +74,6 @@ Calory App to connect to fat secret and scrape searched foods Nutritional Facts 
 </p>
 <hr>
 
-
----
-## 🛠️ Technologies & Tools
-
-- **Languages**: ¬  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-blue?style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-- **Tools**: ¬  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stek765&layout=compact)
 
 
 
