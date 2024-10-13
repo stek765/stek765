@@ -4,7 +4,11 @@
     <h1>👋 Hi, I'm Stefano Zanolli (stek765)</h1>
     <p>Below, you'll find some of my key projects where I try to use various programming languages and frameworks.</p>
   </div>
-  
+
+  <div style="display: flex; flex-direction: column; align-items: center; margin-left: 20px;">
+    <img src="https://github.com/user-attachments/assets/acdaa6b4-f522-4881-b127-0b98271ac157" alt="mem2" width="400"  style="margin-top: 10px;"/>
+   <img src="https://github.com/user-attachments/assets/77754f7b-f887-4ad2-8c01-3cc2a6a550e0" alt="mem1" width="373"/>
+  </div>
   ---
 ## 🛠️ Technologies & Tools
 
