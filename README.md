@@ -82,13 +82,13 @@ Calory App to connect to fat secret and scrape searched foods Nutritional Facts 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stek765&layout=compact)
 
-
+<br>
 
 ## 📈 GitHub Stats
 
 ![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=stek765&show_icons=true&theme=radical)
 
-
+---
 
 ## 📫 Get in Touch
 <br>
