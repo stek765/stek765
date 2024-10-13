@@ -12,8 +12,6 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stek765&layout=compact)
-
 
 
 
@@ -81,6 +79,9 @@ Calory App to connect to fat secret and scrape searched foods Nutritional Facts 
 - **Frameworks**: ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stek765&layout=compact)
+
 
 
 ## 📈 GitHub Stats
