@@ -20,9 +20,7 @@
 
 
 <br>
-    <div style="display: flex; flex-direction: column; align-items: center; margin-left: 20px;">
-       <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stek765&layout=compact)" />
-   </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stek765&layout=compact)
 
 
 
