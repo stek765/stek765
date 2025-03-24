@@ -30,7 +30,7 @@ A specialized eCommerce platform tailored for a company that sells tropical aqua
 </p>
 <hr>
 
-### 3. [Stage-Project]
+### 3. Stage-Project
 A WebApp designed to help bars and musicians organize live music events, complete with tourist information.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ef24f299-c2a9-449b-860f-5a0a63efdde8" alt="Stage" width="650" />
