@@ -3,6 +3,8 @@
    <div style="flex: 1;">
     <h1>👋 Hi, I'm Stefano Zanolli (stek765)</h1>
     <p>Below, you'll find some of my key projects where I try to use various programming languages and frameworks.</p>
+   <p> Portfolio -> https://stek765.github.io </p>
+
   </div>
 
   
