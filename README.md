@@ -10,7 +10,10 @@
     <img src="https://github.com/user-attachments/assets/acdaa6b4-f522-4881-b127-0b98271ac157" alt="mem2" width="400"  style="margin-top: 10px;"/>
    <img src="https://github.com/user-attachments/assets/77754f7b-f887-4ad2-8c01-3cc2a6a550e0" alt="mem1" width="373"/>
   </div>
-  
+
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stek765&layout=compact)
+
 
 
 ---
@@ -74,8 +77,6 @@ Calory App to connect to fat secret and scrape searched foods Nutritional Facts 
 
 - **Tools**: ¬  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stek765&layout=compact)
 
 
 
