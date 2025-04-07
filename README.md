@@ -29,7 +29,7 @@ An implementation of the Pretty Good Privacy (PGP) protocol for sending emails s
 ### 2. [RUST-learning](https://github.com/stek765/RUST-learning)
 A comprehensive journey through the Rust programming language, featuring projects and exercises inspired by "The Rust Programming Language" book.
 <p align="center">
-<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust Logo" width="400"/>
+<img src="https://github.com/user-attachments/assets/09f5b0d1-8f71-4bd1-aa74-dd95e0f52891" alt="Rust Logo" width="400"/>
 </p>
 <hr>
 
