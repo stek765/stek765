@@ -26,21 +26,29 @@ An implementation of the Pretty Good Privacy (PGP) protocol for sending emails s
 </p>
 <hr>
 
-### 2. [WebSite Professional](https://github.com/stek765/Serra) (Private to protect the company)
+### 2. [RUST-learning](https://github.com/stek765/RUST-learning)
+A comprehensive journey through the Rust programming language, featuring projects and exercises inspired by "The Rust Programming Language" book.
+<p align="center">
+<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust Logo" width="400"/>
+</p>
+<hr>
+
+
+### 3. [WebSite Professional](https://github.com/stek765/Serra) (Private to protect the company)
 A specialized eCommerce platform tailored for a company that sells tropical aquarium fish exclusively to wholesalers.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/6564965e-15c1-4a79-b6c2-b90875da62da" alt="Serra" width="650"/>
 </p>
 <hr>
 
-### 3. Stage-Project
+### 4. Stage-Project
 A WebApp designed to help bars and musicians organize live music events, complete with tourist information.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ef24f299-c2a9-449b-860f-5a0a63efdde8" alt="Stage" width="650" />
 </p>
 <hr>
 
-### 4. Progetto-Assembly & C Programming Journey with Semaphore Project
+### 5. Progetto-Assembly & C Programming Journey with Semaphore Project
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td align="center" width="40%" style="border: none;">
@@ -60,7 +68,7 @@ A WebApp designed to help bars and musicians organize live music events, complet
 </p>
 <hr>
  
-### 5. [Calory-App](https://github.com/stek765/Calory-App) 
+### 6. [Calory-App](https://github.com/stek765/Calory-App) 
 Calory App to connect to fat secret and scrape searched foods Nutritional Facts in a cool way + make propotions
 <p align="center">
 <img src="https://github.com/user-attachments/assets/0983c65b-0ee6-4094-8fc7-1e5c219caefa" alt="Script" width="700"/>
