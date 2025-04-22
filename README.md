@@ -33,7 +33,7 @@ A comprehensive journey through the Rust programming language, featuring project
 </p>
 <hr>
 
-### 3. [ASSEMBLY-learning] (https://github.com/stek765/ASSEMBLY-learning)
+### 3. [ASSEMBLY-learning](https://github.com/stek765/ASSEMBLY-learning)
 A hands-on journey into low-level programming with x86-64 Assembly, exploring system calls, memory management, and the inner workings of modern computers.
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/8b054e0c-4a96-4ed8-8834-f7906385aa52" alt="Assembly Icon" width="400"/>  
