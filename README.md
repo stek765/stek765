@@ -7,12 +7,14 @@ An implementation of the Pretty Good Privacy (PGP) protocol for sending emails s
 </p>  
 <hr>
 
-### 2. [C](https://github.com/stek765/C)  
+### 2. [C-learning](https://github.com/stek765/C-learning)  
 A practical journey to learn the C programming language through examples, notes, and structured practice. It covers memory, structs, pointers, function pointers, and even ADTs like stacks.  
 <p align="center">
-<img src="https://github.com/user-attachments/assets/985a7e5b-b71a-400a-9c64-051c9d37eed3" alt="C logo" width="400"/>
+<img src="https://github.com/user-attachments/assets/b404ce45-e485-4583-b89d-a4dea663dbc4" alt="C logo" width="400"/>
 </p>
 <hr>
+
+
 
 ### 3. [RUST-learning](https://github.com/stek765/RUST-learning)  
 A comprehensive journey through the Rust programming language, featuring projects and exercises inspired by "The Rust Programming Language" book.  
