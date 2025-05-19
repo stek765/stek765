@@ -1,3 +1,11 @@
+## INTRO
+Hi, i'm passionate about low-level programming and hacking, I enjoy exploring the depths of system internals and security.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stek765&layout=compact&langs_count=10&theme=default)
+
+
+
 ## 📂 Featured Projects
 
 ### 1. [PGP-implementation](https://github.com/stek765/PGP-implementation)  
