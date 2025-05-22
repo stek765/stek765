@@ -16,7 +16,7 @@ An implementation of the Pretty Good Privacy (PGP) protocol for sending emails s
 <hr>
 
 ### 2. [C-learning](https://github.com/stek765/C-learning)  
-A practical journey to learn the C programming language through examples, notes, and structured practice. It covers memory, structs, pointers, function pointers, and even ADTs like stacks.  
+A practical journey to learn the C programming language through examples, notes, and structured practice. It covers memory, structs, pointers, function pointers, and even ADTs.  
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b404ce45-e485-4583-b89d-a4dea663dbc4" alt="C logo" width="400"/>
 </p>
