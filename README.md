@@ -22,6 +22,7 @@ An implementation of the Pretty Good Privacy (PGP) protocol for sending emails s
 <img src="https://github.com/user-attachments/assets/96e9658b-07f8-4389-b1db-b067c60aaf13" alt="PGP Illustration" width="400"/>
 </p>  
 <hr>
+<img width="401" height="399" alt="pgp-image" src="https://github.com/user-attachments/assets/c8882ba4-c2c5-4351-9f49-3359c6d18c4e" />
 
 
 ### 3. [C-learning](https://github.com/stek765/C-learning)  
