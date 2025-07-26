@@ -11,18 +11,19 @@ Hi, i'm passionate about low-level programming and hacking, I enjoy exploring th
 ### 1. [FirmBox-Gateway](https://github.com/stek765/FirmBox-Gateway)  
 A local IoT gateway that monitors light via STM32 and shares real-time sensor data and controls over MQTT and a secure Flask dashboard.
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ab63a5ce-ae99-4cd4-84b2-7aa3559811a4" alt="Firmbox-Gateaway" width="400"/>
+<img src="https://github.com/user-attachments/assets/88ab8731-dce1-4559-97c1-71feca898e13" alt="Firmbox-Gateaway" width="400"/>
 </p>  
 <hr>
+
 
 
 ### 2. [PGP-implementation](https://github.com/stek765/PGP-implementation)  
 An implementation of the Pretty Good Privacy (PGP) protocol for sending emails securely, ensuring **Confidentiality, Integrity, and Authenticity**.  
 <p align="center">
-<img src="https://github.com/user-attachments/assets/96e9658b-07f8-4389-b1db-b067c60aaf13" alt="PGP Illustration" width="400"/>
+<img src="https://github.com/user-attachments/assets/c8882ba4-c2c5-4351-9f49-3359c6d18c4e" alt="PGP Illustration" width="400"/>
 </p>  
 <hr>
-<img width="401" height="399" alt="pgp-image" src="https://github.com/user-attachments/assets/c8882ba4-c2c5-4351-9f49-3359c6d18c4e" />
+
 
 
 ### 3. [C-learning](https://github.com/stek765/C-learning)  
