@@ -19,9 +19,10 @@ A local IoT gateway that monitors light via STM32 and shares real-time sensor da
 ### 2. [PGP-implementation](https://github.com/stek765/PGP-implementation)  
 An implementation of the Pretty Good Privacy (PGP) protocol for sending emails securely, ensuring **Confidentiality, Integrity, and Authenticity**.  
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5e3541e9-1381-4b5c-90bd-16692bc833a6" alt="PGP Illustration" width="400"/>
+<img src="https://github.com/user-attachments/assets/96e9658b-07f8-4389-b1db-b067c60aaf13" alt="PGP Illustration" width="400"/>
 </p>  
 <hr>
+
 
 ### 3. [C-learning](https://github.com/stek765/C-learning)  
 A practical journey to learn the C programming language through examples, notes, and structured practice. It covers memory, structs, pointers, function pointers, and even ADTs.  
