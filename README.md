@@ -8,7 +8,7 @@ Hi, i'm passionate about low-level programming and hacking, I enjoy exploring th
 ### 1. [C-pp-learning](https://github.com/stek765/C-pp-learning)  
 My path to modern C++: syntax, STL, RAII, move semantics, templates, and practical exercises to write safe and expressive code.  
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="400"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="250"/>
 </p>  
 <hr>
 
@@ -29,7 +29,7 @@ An implementation of the Pretty Good Privacy (PGP) protocol for sending emails s
 ### 4. [Python-learning](https://github.com/stek765/Python-learning)  
 A hands-on journey through Python: from prints and data structures to OOP, decorators, error handling, files, and small projects.  
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="250"/>
 </p>  
 <hr>
 
