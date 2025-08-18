@@ -1,10 +1,7 @@
 ## INTRO
 Hi, i'm passionate about low-level programming and hacking, I enjoy exploring the depths of system internals and security.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/
-?username=stek765
-&layout=compact
-&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stek765&layout=compact&langs_count=10)
 
 ## 📂 Featured Projects
 
