@@ -1,10 +1,16 @@
 ## INTRO
-Hi, i'm passionate about low-level programming and hacking, I enjoy exploring the depths of system internals and security.
+Hi, i'm passionate about low-level programming(firmware, embedded) and hacking, I enjoy exploring the depths of system internals and security.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stek765&layout=compact&langs_count=10)
 
 ## 📂 Featured Projects
 
+###  [Add Wi-Fi on Printers](https://github.com/stek765/Adding-Wi-Fi-to-Printers)  
+Fixing the problem of NON_WIFI printers, so that they can recieve files from a LAN.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a0946e1d-9718-4c6c-8316-e70fdceef021" alt="WFP" width="250"/>
+</p>  
+<hr>
 
 ###  [Visual Cryptography](https://github.com/stek765/visual-cryptography)  
 Visual Cryptography in Python — splitting an image into two random shares that reveal nothing on their own, yet reconstruct perfectly when overlaid.
