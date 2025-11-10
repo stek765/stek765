@@ -8,7 +8,7 @@ Hi, i'm passionate about low-level programming(firmware, embedded) and hacking, 
 ###  [Add Wi-Fi on Printers](https://github.com/stek765/Adding-Wi-Fi-to-Printers)  
 Fixing the problem of NON_WIFI printers, so that they can recieve files from a LAN.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a0946e1d-9718-4c6c-8316-e70fdceef021" alt="WFP" width="250"/>
+  <img src="https://github.com/user-attachments/assets/a0946e1d-9718-4c6c-8316-e70fdceef021" alt="WFP" width="400"/>
 </p>  
 <hr>
 
