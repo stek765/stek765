@@ -20,13 +20,6 @@ Visual Cryptography in Python — splitting an image into two random shares that
 </p>  
 <hr>
 
-###  [C-pp-learning](https://github.com/stek765/C-pp-learning)  
-My path to modern C++: syntax, STL, RAII, move semantics, templates, and practical exercises to write safe and expressive code.  
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="250"/>
-</p>  
-<hr>
-
 ###  [FirmBox-Gateway](https://github.com/stek765/FirmBox-Gateway)  
 A local IoT gateway that monitors light via STM32 and shares real-time sensor data and controls over MQTT and a secure Flask dashboard.
 <p align="center">
