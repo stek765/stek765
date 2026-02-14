@@ -55,6 +55,14 @@ A practical journey to learn the C programming language through examples, notes,
 </p>
 <hr>
 
+
+###  [C-pp-learning](https://github.com/stek765/C-pp-learning)  
+My path to modern C++: syntax, STL, RAII, move semantics, templates, and practical exercises to write safe and expressive code.  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="250"/>
+</p>  
+<hr>
+
 ###  [RUST-learning](https://github.com/stek765/RUST-learning)  
 A comprehensive journey through the Rust programming language, featuring projects and exercises inspired by "The Rust Programming Language" book.  
 <p align="center">
