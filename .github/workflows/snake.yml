@@ -8,12 +8,13 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=%231f3a6e&color_dots=%23ebedf0,%23c0d9ff,%2379b0ff,%232f81f7,%230b4fd0
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23d2e8ff&color_dots=%23161b22,%230e2a5c,%231f6feb,%2358a6ff,%23a5d6ff
+      - run: |
+          mkdir dist
+          npx -y generate-snake-animation@3 \
+            --github_user "${{ github.repository_owner }}" \
+            --github_token "${{ secrets.GITHUB_TOKEN }}" \
+            --output "dist/github-snake.svg?color_snake=%231f3a6e&color_dots=%23ebedf0,%23c0d9ff,%2379b0ff,%232f81f7,%230b4fd0" \
+            --output "dist/github-snake-dark.svg?palette=github-dark&color_snake=%23d2e8ff&color_dots=%23161b22,%230e2a5c,%231f6feb,%2358a6ff,%23a5d6ff"
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
