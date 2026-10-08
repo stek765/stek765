@@ -36,6 +36,8 @@ A filter for the Instagram posts you save: it reads every slide of a carousel, c
 </p>
 <hr>
 
+<br>
+
 ###  [Airdrop-CLI](https://github.com/stek765/Airdrop-CLI)
 AirDrop for machines with no screen: a terminal app that finds peers on the LAN via mDNS and sends files over TLS, with a fingerprint you confirm by eye. Built for a Raspberry Pi or server you only reach over SSH.
 <table align="center" border="0">
@@ -46,6 +48,7 @@ AirDrop for machines with no screen: a terminal app that finds peers on the LAN 
 </table>
 <hr>
 
+<br>
 
 ###  [Temperature Tracker on Ethereum](https://github.com/stek765/Temperature-Tracker-on-Ethereum)
 A Solidity smart contract that records temperature readings from authorized IoT sensors on-chain, with access control and an automatic alert status, so nobody who runs the server can quietly rewrite the data.
@@ -54,6 +57,7 @@ A Solidity smart contract that records temperature readings from authorized IoT 
 </p>
 <hr>
 
+<br>
 
 ###  [Portable CAN Bus Sniffer](https://github.com/stek765/Portable-CAN-bus-Sniffer)
 A standalone CAN bus sniffer: an MCP2515 reads real frames over SPI, an Arduino decodes ID, length and payload, and shows them live on a 16×2 LCD and serial, no PC needed.
@@ -62,6 +66,7 @@ A standalone CAN bus sniffer: an MCP2515 reads real frames over SPI, an Arduino 
 </p>
 <hr>
 
+<br>
 
 ###  [Add Wi-Fi on Printers](https://github.com/stek765/Adding-Wi-Fi-to-Printers)  
 Fixing the problem of NON_WIFI printers, so that they can recieve files from a LAN.
@@ -69,6 +74,8 @@ Fixing the problem of NON_WIFI printers, so that they can recieve files from a L
   <img src="https://github.com/user-attachments/assets/a0946e1d-9718-4c6c-8316-e70fdceef021" alt="WFP" width="400"/>
 </p>  
 <hr>
+
+<br>
 
 ###  [Visual Cryptography](https://github.com/stek765/visual-cryptography)  
 Visual Cryptography in Python — splitting an image into two random shares that reveal nothing on their own, yet reconstruct perfectly when overlaid.
