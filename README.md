@@ -62,7 +62,7 @@ A Solidity smart contract that records temperature readings from authorized IoT 
 ###  [Portable CAN Bus Sniffer](https://github.com/stek765/Portable-CAN-bus-Sniffer)
 A standalone CAN bus sniffer: an MCP2515 reads real frames over SPI, an Arduino decodes ID, length and payload, and shows them live on a 16×2 LCD and serial, no PC needed.
 <p align="center">
-    <img width="2800" height="720" alt="can-sniffer" src="https://github.com/user-attachments/assets/eb2e3d19-60c2-44ec-9960-e43c203046ab" />
+    <img width="2800" height="720" alt="can-sniffer" src="https://github.com/user-attachments/assets/76a5c2e3-5b02-4455-a3d9-18aad3a44e27" />
 </p>
 <hr>
 
