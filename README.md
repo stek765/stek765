@@ -40,8 +40,8 @@ A filter for the Instagram posts you save: it reads every slide of a carousel, c
 AirDrop for machines with no screen: a terminal app that finds peers on the LAN via mDNS and sends files over TLS, with a fingerprint you confirm by eye. Built for a Raspberry Pi or server you only reach over SSH.
 <table align="center" border="0">
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/167b62fd-29f2-4a25-ab61-1a6da41f1778" alt="Airdrop CLI: sending" width="100%"/><br><sub>Send</sub></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/4ff1da5a-a7a5-416d-85bb-4736b70e6957" alt="Airdrop CLI: receiving" width="100%"/><br><sub>Receive</sub></td>  
+    <td align="center"><img src="https://github.com/user-attachments/assets/bdf211e6-6974-4ae2-b52d-c287c5493caa" alt="Airdrop CLI: sending" width="100%"/><br><sub>Send</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/47f1b605-5ad5-4bcd-83a9-7f09d66ac516" alt="Airdrop CLI: receiving" width="100%"/><br><sub>Receive</sub></td>  
   </tr>
 </table>
 <hr>
@@ -50,7 +50,7 @@ AirDrop for machines with no screen: a terminal app that finds peers on the LAN 
 ###  [Temperature Tracker on Ethereum](https://github.com/stek765/Temperature-Tracker-on-Ethereum)
 A Solidity smart contract that records temperature readings from authorized IoT sensors on-chain, with access control and an automatic alert status, so nobody who runs the server can quietly rewrite the data.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stek765/Temperature-Tracker-on-Ethereum/main/assets/logo.svg" alt="Temperature Tracker" width="400"/>
+    <img src="https://raw.githubusercontent.com/stek765/Temperature-Tracker-on-Ethereum/main/assets/architecture-flow.svg" alt="Temperature Tracker: deploy and interaction flow" width="700"/>
 </p>
 <hr>
 
