@@ -28,6 +28,36 @@ Hi, i'm passionate about low-level programming (firmware, embedded) and hacking,
 
 ## 📂 Featured Projects
 
+###  [Temperature Tracker on Ethereum](https://github.com/stek765/Temperature-Tracker-on-Ethereum)
+A Solidity smart contract that records temperature readings from authorized IoT sensors on-chain, with access control and an automatic alert status, so nobody who runs the server can quietly rewrite the data.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stek765/Temperature-Tracker-on-Ethereum/main/assets/logo.svg" alt="Temperature Tracker" width="400"/>
+</p>
+<hr>
+
+###  [winnow](https://github.com/stek765/winnow)
+A filter for the Instagram posts you save: it reads every slide of a carousel, checks each repo or model it names at the source, and weighs it against a profile you write. It doesn't summarize, it throws things out.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stek765/winnow/main/assets/winnow-demo.gif" alt="winnow" width="650"/>
+</p>
+<hr>
+
+###  [Airdrop-CLI](https://github.com/stek765/Airdrop-CLI)
+AirDrop for machines with no screen: a terminal app that finds peers on the LAN via mDNS and sends files over TLS, with a fingerprint you confirm by eye. Built for a Raspberry Pi or server you only reach over SSH.
+<p align="center">
+  <img src="IMMAGINE" alt="Airdrop CLI" width="500"/>
+</p>
+<hr>
+
+
+###  [Portable CAN Bus Sniffer](https://github.com/stek765/Portable-CAN-bus-Sniffer)
+A standalone CAN bus sniffer: an MCP2515 reads real frames over SPI, an Arduino decodes ID, length and payload, and shows them live on a 16×2 LCD and serial, no PC needed.
+<p align="center">
+  <img src="IMMAGINE" alt="CAN Sniffer" width="400"/>
+</p>
+<hr>
+
+
 ###  [Add Wi-Fi on Printers](https://github.com/stek765/Adding-Wi-Fi-to-Printers)  
 Fixing the problem of NON_WIFI printers, so that they can recieve files from a LAN.
 <p align="center">
@@ -92,39 +122,7 @@ A hands-on journey into low-level programming with x86-64 Assembly, exploring sy
 </p>  
 <hr>
 
-###  [WebSite Professional](https://github.com/stek765/Serra) (Private to protect the company)  
-A specialized eCommerce platform tailored for a company that sells tropical aquarium fish exclusively to wholesalers.  
-<p align="center">
-<img src="https://github.com/user-attachments/assets/6564965e-15c1-4a79-b6c2-b90875da62da" alt="Serra" width="650"/>
-</p>
-<hr>
 
-###  Stage-Project  
-A WebApp designed to help bars and musicians organize live music events, complete with tourist information.  
-<p align="center">
-<img src="https://github.com/user-attachments/assets/ef24f299-c2a9-449b-860f-5a0a63efdde8" alt="Stage" width="650" />
-</p>
-<hr>
-
-###  Progetto-Assembly & C Programming Journey with Semaphore Project  
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" width="40%" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/1cba3624-3aa7-4c07-b6f8-da799b790a52" alt="Assembly" width="90%" />
-    </td>
-    <td width="20%" style="border: none;"></td>
-    <td align="center" width="40%" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/985a7e5b-b71a-400a-9c64-051c9d37eed3" alt="connect_four_final" width="90%" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/stek765/Progetto-Assembly">Progetto-Assembly Repository</a> | 
-  <a href="https://github.com/stek765/How-to-C">How-to-C Repository</a> | 
-  <a href="https://github.com/stek765/Progetto-Sistemi-Operativi">Progetto Sistemi Operativi Repository</a>
-</p>
-<hr>
 
 ###  [Calory-App](https://github.com/stek765/Calory-App)  
 Calory App to connect to fat secret and scrape searched foods Nutritional Facts in a cool way + make proportions  
