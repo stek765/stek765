@@ -26,7 +26,7 @@ Hi, i'm passionate about low-level programming (firmware, embedded) and hacking,
 </p>
 
 
-## 🌐 Live Demos
+## More Frontendy Stuff
 
 
 <table>
