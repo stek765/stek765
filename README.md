@@ -49,8 +49,7 @@ Hi, i'm passionate about low-level programming (firmware, embedded) and hacking,
       <br><sub>Tap a table tag, get the menu with drink pairings. Live with a paying restaurant; this demo runs on static data.</sub>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://cinematic-scroll.menu-reshape.workers.dev/"><img src="https://github.com/user-attachments/assets/1bcade07-726d-4794-82f6-e0876f2833f9<img width="1280" height="720" alt="card-nfc" src="https://github.com/user-attachments/assets/d3dee202-2cd4-4d90-9270-ee65c01ebbca" />
-" alt="Cinematic scroll" width="100%"/></a>
+      <a href="https://cinematic-scroll.menu-reshape.workers.dev/"><img src="https://github.com/user-attachments/assets/9e5589f8-e04a-41d7-bbba-8bcf5222aafd" alt="Cinematic scroll" width="100%"/></a>
       <br><b><a href="https://cinematic-scroll.menu-reshape.workers.dev/">Cinematic scroll</a></b>
       <br><sub>240-frame canvas animation driven by scroll, with custom inertia and smart preloading.</sub>
     </td>
