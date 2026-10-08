@@ -26,39 +26,42 @@ Hi, i'm passionate about low-level programming (firmware, embedded) and hacking,
 </p>
 
 
-## More Frontendy Stuff
+## Interfaces for Hardware
 
-
+Boards need consoles and products need front ends. These are the ones I build around the hardware.
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
       <img src="https://github.com/user-attachments/assets/9f5dfcea-ee87-4010-b29e-8212c90d6e1a" alt="VT100 Provisioning Console" width="100%"/>
       <br><b>VT100 Provisioning Console</b>
-      <br><sub>IoT board provisioning: MAC pool, MQTT identity, mTLS, revocation. Internship project, private.</sub>
+      <br><sub>IoT board provisioning: MAC pool, MQTT identity, mTLS, revocation.</sub>
+      <br><sub><i>Internship project, private repository</i></sub>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://volo-palmare.menu-reshape.workers.dev/"><img src="https://github.com/user-attachments/assets/a2ed4525-3798-46b0-8efb-3f828060841f" alt="Volo handheld" width="100%"/></a>
-      <br><b><a href="https://volo-palmare.menu-reshape.workers.dev/">Volo: handheld for restaurants</a></b>
+      <a href="https://volo-palmare.menu-reshape.workers.dev/"><img src="https://raw.githubusercontent.com/stek765/stek765/main/assets/card-palmare.jpg" alt="Volo handheld" width="100%"/></a>
+      <br><b>Volo: handheld for restaurants</b>
       <br><sub>Product site for an ordering device I designed. Scroll-driven video and motion.</sub>
+      <br><sub><a href="https://volo-palmare.menu-reshape.workers.dev/">Live site ↗</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://nfc-menu-demo.menu-reshape.workers.dev/"><img src="https://github.com/user-attachments/assets/f02ab272-a4e0-48e1-85cc-440a76d35fdd" alt="NFC digital menu" width="100%"/></a>
-      <br><b><a href="https://github.com/user-attachments/assets/71c7df33-197b-44cc-b2c5-53fe52763b94">NFC digital menu</a></b>
+      <a href="https://nfc-menu-demo.menu-reshape.workers.dev/"><img src="https://raw.githubusercontent.com/stek765/stek765/main/assets/card-nfc.jpg" alt="NFC digital menu" width="100%"/></a>
+      <br><b>NFC digital menu</b>
       <br><sub>Tap a table tag, get the menu with drink pairings. Live with a paying restaurant; this demo runs on static data.</sub>
+      <br><sub><a href="https://nfc-menu-demo.menu-reshape.workers.dev/">Live demo ↗</a></sub>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://cinematic-scroll.menu-reshape.workers.dev/"><img src="https://github.com/user-attachments/assets/f5a22f8e-2cbf-43f0-a78e-b21dfa71f173" alt="Cinematic scroll" width="100%"/></a>
-      <br><b><a href="https://cinematic-scroll.menu-reshape.workers.dev/">Cinematic scroll</a></b>
+      <br><b>Cinematic scroll</b>
       <br><sub>240-frame canvas animation driven by scroll, with custom inertia and smart preloading.</sub>
+      <br><sub><a href="https://cinematic-scroll.menu-reshape.workers.dev/">Live site ↗</a></sub>
     </td>
   </tr>
 </table>
 
 <hr>
-
 
 
 
