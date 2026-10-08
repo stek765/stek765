@@ -175,10 +175,3 @@ A hands-on journey into low-level programming with x86-64 Assembly, exploring sy
 <hr>
 
 
-
-###  [Calory-App](https://github.com/stek765/Calory-App)  
-Calory App to connect to fat secret and scrape searched foods Nutritional Facts in a cool way + make proportions  
-<p align="center">
-<img src="https://github.com/user-attachments/assets/0983c65b-0ee6-4094-8fc7-1e5c219caefa" alt="Script" width="700"/>
-</p>
-<hr>
