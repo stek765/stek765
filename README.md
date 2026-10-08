@@ -1,7 +1,7 @@
 <h1 align="center">Stefano Zanolli</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00E676&center=true&vCenter=true&width=520&lines=Firmware+Developer;Embedded+Security;CRA+%2F+RED+Compliance;Reverse+engineering+%26+crypto" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=4DA3FF&center=true&vCenter=true&width=520&lines=Firmware+Developer;Embedded+Security;CRA+%2F+RED+Compliance;Reverse+engineering+%26+crypto" alt="Typing SVG" />
 </p>
 
 Hi, i'm passionate about low-level programming (firmware, embedded) and hacking, I enjoy exploring the depths of system internals and security.
