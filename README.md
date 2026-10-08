@@ -28,12 +28,6 @@ Hi, i'm passionate about low-level programming (firmware, embedded) and hacking,
 
 ## 📂 Featured Projects
 
-###  [Temperature Tracker on Ethereum](https://github.com/stek765/Temperature-Tracker-on-Ethereum)
-A Solidity smart contract that records temperature readings from authorized IoT sensors on-chain, with access control and an automatic alert status, so nobody who runs the server can quietly rewrite the data.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/stek765/Temperature-Tracker-on-Ethereum/main/assets/logo.svg" alt="Temperature Tracker" width="400"/>
-</p>
-<hr>
 
 ###  [winnow](https://github.com/stek765/winnow)
 A filter for the Instagram posts you save: it reads every slide of a carousel, checks each repo or model it names at the source, and weighs it against a profile you write. It doesn't summarize, it throws things out.
@@ -50,6 +44,14 @@ AirDrop for machines with no screen: a terminal app that finds peers on the LAN 
     <td align="center"><img src="https://raw.githubusercontent.com/stek765/stek765/main/assets/airdrop-receive.gif" alt="Airdrop CLI: receiving" width="100%"/><br><sub>Receive</sub></td>
   </tr>
 </table>
+<hr>
+
+
+###  [Temperature Tracker on Ethereum](https://github.com/stek765/Temperature-Tracker-on-Ethereum)
+A Solidity smart contract that records temperature readings from authorized IoT sensors on-chain, with access control and an automatic alert status, so nobody who runs the server can quietly rewrite the data.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stek765/Temperature-Tracker-on-Ethereum/main/assets/logo.svg" alt="Temperature Tracker" width="400"/>
+</p>
 <hr>
 
 
