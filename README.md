@@ -40,8 +40,8 @@ A filter for the Instagram posts you save: it reads every slide of a carousel, c
 AirDrop for machines with no screen: a terminal app that finds peers on the LAN via mDNS and sends files over TLS, with a fingerprint you confirm by eye. Built for a Raspberry Pi or server you only reach over SSH.
 <table align="center" border="0">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/stek765/stek765/main/assets/airdrop-send.gif" alt="Airdrop CLI: sending" width="100%"/><br><sub>Send</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/stek765/stek765/main/assets/airdrop-receive.gif" alt="Airdrop CLI: receiving" width="100%"/><br><sub>Receive</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/167b62fd-29f2-4a25-ab61-1a6da41f1778" alt="Airdrop CLI: sending" width="100%"/><br><sub>Send</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/4ff1da5a-a7a5-416d-85bb-4736b70e6957" alt="Airdrop CLI: receiving" width="100%"/><br><sub>Receive</sub></td>  
   </tr>
 </table>
 <hr>
@@ -58,7 +58,7 @@ A Solidity smart contract that records temperature readings from authorized IoT 
 ###  [Portable CAN Bus Sniffer](https://github.com/stek765/Portable-CAN-bus-Sniffer)
 A standalone CAN bus sniffer: an MCP2515 reads real frames over SPI, an Arduino decodes ID, length and payload, and shows them live on a 16×2 LCD and serial, no PC needed.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/stek765/stek765/main/assets/can-sniffer.png" alt="CAN Sniffer" width="650"/>
+    <img width="2800" height="720" alt="can-sniffer" src="https://github.com/user-attachments/assets/eb2e3d19-60c2-44ec-9960-e43c203046ab" />
 </p>
 <hr>
 
