@@ -16,12 +16,12 @@ Hi, i'm passionate about low-level programming (firmware, embedded) and hacking,
   <img height="28" src="https://img.shields.io/badge/Cryptography-8E44AD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&cacheSeconds=3600" />
 </p>
 
-<p align="center"><sub>Studying: C++ · Rust · x86-64 Assembly</sub></p>
+
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stek765/stek765/output/github-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.comthub-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/stek765/stek765/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -44,16 +44,19 @@ A filter for the Instagram posts you save: it reads every slide of a carousel, c
 
 ###  [Airdrop-CLI](https://github.com/stek765/Airdrop-CLI)
 AirDrop for machines with no screen: a terminal app that finds peers on the LAN via mDNS and sends files over TLS, with a fingerprint you confirm by eye. Built for a Raspberry Pi or server you only reach over SSH.
-<p align="center">
-  <img src="IMMAGINE" alt="Airdrop CLI" width="500"/>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/stek765/stek765/main/assets/airdrop-send.gif" alt="Airdrop CLI: sending" width="100%"/><br><sub>Send</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/stek765/stek765/main/assets/airdrop-receive.gif" alt="Airdrop CLI: receiving" width="100%"/><br><sub>Receive</sub></td>
+  </tr>
+</table>
 <hr>
 
 
 ###  [Portable CAN Bus Sniffer](https://github.com/stek765/Portable-CAN-bus-Sniffer)
 A standalone CAN bus sniffer: an MCP2515 reads real frames over SPI, an Arduino decodes ID, length and payload, and shows them live on a 16×2 LCD and serial, no PC needed.
 <p align="center">
-  <img src="IMMAGINE" alt="CAN Sniffer" width="400"/>
+    <img src="https://raw.githubusercontent.com/stek765/stek765/main/assets/can-sniffer.png" alt="CAN Sniffer" width="650"/>
 </p>
 <hr>
 
