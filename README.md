@@ -64,8 +64,9 @@ Boards need consoles and products need front ends. These are the ones I build ar
 <hr>
 
 
+<br>
 
-## 📂 Featured Projects
+##  Featured Projects
 
 
 ###  [winnow](https://github.com/stek765/winnow)
