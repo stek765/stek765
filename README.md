@@ -1,7 +1,27 @@
-## INTRO
-Hi, i'm passionate about low-level programming(firmware, embedded) and hacking, I enjoy exploring the depths of system internals and security.
+<h1 align="center">Stefano Zanolli</h1>
 
-![Top Langs](https://git-stats-vert.vercel.app/api/top-langs/?username=stek765&layout=compact&langs_count=10)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00E676&center=true&vCenter=true&width=520&lines=Firmware+Developer;Embedded+Security;CRA+%2F+RED+Compliance;Reverse+engineering+%26+crypto" alt="Typing SVG" />
+</p>
+
+Hi, i'm passionate about low-level programming (firmware, embedded) and hacking, I enjoy exploring the depths of system internals and security.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?styln&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?stylelogoColor=black" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stek765/stek765/output/github-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.comthub-snake.svg" />
+  </picture>
+</p>
 
 
 ## 📂 Featured Projects
