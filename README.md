@@ -41,7 +41,7 @@ Boards need consoles and products need front ends. These are the ones I build ar
     <td width="50%" valign="top" align="center">
       <a href="https://volo-palmare.menu-reshape.workers.dev/"><img src="https://raw.githubusercontent.com/stek765/stek765/main/assets/card-palmare.jpg" alt="Volo handheld" width="100%"/></a>
       <br><b>Volo: handheld for restaurants</b>
-      <br><sub>Product site for an ordering device I designed. Scroll-driven video and motion.</sub>
+      <br><sub>Product site for an ordering device Demo. Scroll-driven video and motion.</sub>
       <br><sub><a href="https://volo-palmare.menu-reshape.workers.dev/">Live site ↗</a></sub>
     </td>
   </tr>
