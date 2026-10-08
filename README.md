@@ -29,6 +29,7 @@ Hi, i'm passionate about low-level programming (firmware, embedded) and hacking,
 ## More Frontendy Stuff
 
 
+
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
@@ -45,11 +46,11 @@ Hi, i'm passionate about low-level programming (firmware, embedded) and hacking,
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://nfc-menu-demo.menu-reshape.workers.dev/"><img src="https://github.com/user-attachments/assets/f02ab272-a4e0-48e1-85cc-440a76d35fdd" alt="NFC digital menu" width="100%"/></a>
-      <br><b><a href="https://nfc-menu-demo.menu-reshape.workers.dev/">NFC digital menu</a></b>
+      <br><b><a href="https://github.com/user-attachments/assets/71c7df33-197b-44cc-b2c5-53fe52763b94">NFC digital menu</a></b>
       <br><sub>Tap a table tag, get the menu with drink pairings. Live with a paying restaurant; this demo runs on static data.</sub>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://cinematic-scroll.menu-reshape.workers.dev/"><img src="https://github.com/user-attachments/assets/9e5589f8-e04a-41d7-bbba-8bcf5222aafd" alt="Cinematic scroll" width="100%"/></a>
+      <a href="https://cinematic-scroll.menu-reshape.workers.dev/"><img src="https://github.com/user-attachments/assets/ff49a747-71a4-43b2-8188-10227d732cd3" alt="Cinematic scroll" width="100%"/></a>
       <br><b><a href="https://cinematic-scroll.menu-reshape.workers.dev/">Cinematic scroll</a></b>
       <br><sub>240-frame canvas animation driven by scroll, with custom inertia and smart preloading.</sub>
     </td>
