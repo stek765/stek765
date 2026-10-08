@@ -7,13 +7,13 @@
 Hi, i'm passionate about low-level programming (firmware, embedded) and hacking, I enjoy exploring the depths of system internals and security.
 
 <p align="center">
-  <img height="28" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=A8B9CC" />
-  <img height="28" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
-  <img height="28" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=03234B" />
-  <img height="28" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=E7352C" />
-  <img height="28" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624" />
-  <img height="28" src="https://img.shields.io/badge/Network_Security-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1679A7" />
-  <img height="28" src="https://img.shields.io/badge/Cryptography-8E44AD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&labelColor=8E44AD" />
+  <img height="28" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&cacheSeconds=3600" />
+  <img height="28" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&cacheSeconds=3600" />
+  <img height="28" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&cacheSeconds=3600" />
+  <img height="28" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&cacheSeconds=3600" />
+  <img height="28" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&cacheSeconds=3600" />
+  <img height="28" src="https://img.shields.io/badge/Network_Security-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&cacheSeconds=3600" />
+  <img height="28" src="https://img.shields.io/badge/Cryptography-8E44AD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&cacheSeconds=3600" />
 </p>
 
 <p align="center"><sub>Studying: C++ · Rust · x86-64 Assembly</sub></p>
