@@ -26,6 +26,42 @@ Hi, i'm passionate about low-level programming (firmware, embedded) and hacking,
 </p>
 
 
+## 🌐 Live Demos
+
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github.com/user-attachments/assets/9f5dfcea-ee87-4010-b29e-8212c90d6e1a" alt="VT100 Provisioning Console" width="100%"/>
+      <br><b>VT100 Provisioning Console</b>
+      <br><sub>IoT board provisioning: MAC pool, MQTT identity, mTLS, revocation. Internship project, private.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://volo-palmare.menu-reshape.workers.dev/"><img src="https://github.com/user-attachments/assets/a2ed4525-3798-46b0-8efb-3f828060841f" alt="Volo handheld" width="100%"/></a>
+      <br><b><a href="https://volo-palmare.menu-reshape.workers.dev/">Volo: handheld for restaurants</a></b>
+      <br><sub>Product site for an ordering device I designed. Scroll-driven video and motion.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://nfc-menu-demo.menu-reshape.workers.dev/"><img src="https://github.com/user-attachments/assets/f02ab272-a4e0-48e1-85cc-440a76d35fdd" alt="NFC digital menu" width="100%"/></a>
+      <br><b><a href="https://nfc-menu-demo.menu-reshape.workers.dev/">NFC digital menu</a></b>
+      <br><sub>Tap a table tag, get the menu with drink pairings. Live with a paying restaurant; this demo runs on static data.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://cinematic-scroll.menu-reshape.workers.dev/"><img src="https://github.com/user-attachments/assets/1bcade07-726d-4794-82f6-e0876f2833f9<img width="1280" height="720" alt="card-nfc" src="https://github.com/user-attachments/assets/d3dee202-2cd4-4d90-9270-ee65c01ebbca" />
+" alt="Cinematic scroll" width="100%"/></a>
+      <br><b><a href="https://cinematic-scroll.menu-reshape.workers.dev/">Cinematic scroll</a></b>
+      <br><sub>240-frame canvas animation driven by scroll, with custom inertia and smart preloading.</sub>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+
+
+
 ## 📂 Featured Projects
 
 
