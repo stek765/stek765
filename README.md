@@ -81,7 +81,7 @@ A macOS menu bar app that puts WhatsApp, Telegram, Slack, Discord, Proton Mail a
 ###  [winnow](https://github.com/stek765/winnow)
 A filter for the Instagram posts you save: it reads every slide of a carousel, checks each repo or model it names at the source, and weighs it against a profile you write. It doesn't summarize, it throws things out.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stek765/winnow/main/assets/winnow-demo.gif" alt="winnow" width="510"/>
+  <img src="https://raw.githubusercontent.com/stek765/winnow/main/app/src-tauri/icons/icon.png" alt="winnow icon" width="240"/>
 </p>
 <hr>
 
