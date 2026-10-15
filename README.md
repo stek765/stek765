@@ -72,7 +72,7 @@ Boards need consoles and products need front ends. These are the ones I build ar
 ###  [OneBox](https://github.com/stek765/OneBox)
 A macOS menu bar app that puts WhatsApp, Telegram, Slack, Discord, Proton Mail and LinkedIn in one panel, and only lets through the notifications you care about: regex filters per service, quiet hours, zero runtime dependencies.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stek765/OneBox/main/assets/logo.png" alt="OneBox logo" width="160"/>
+  <img src="https://raw.githubusercontent.com/stek765/OneBox/main/assets/logo.png" alt="OneBox logo" width="400"/>
 </p>
 <hr>
 
@@ -129,7 +129,7 @@ Fixing the problem of NON_WIFI printers, so that they can recieve files from a L
 ###  [Visual Cryptography](https://github.com/stek765/visual-cryptography)  
 Visual Cryptography in Python — splitting an image into two random shares that reveal nothing on their own, yet reconstruct perfectly when overlaid.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9b9c47bc-6ef2-465e-b443-8a44740388eb" alt="VC" width="250"/>
+  <img src="https://github.com/user-attachments/assets/9b9c47bc-6ef2-465e-b443-8a44740388eb" alt="VC" width="400"/>
 </p>  
 <hr>
 
