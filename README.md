@@ -5,6 +5,7 @@
 </p>
 
 Hi, i'm passionate about low-level programming (firmware, embedded) and hacking, I enjoy exploring the depths of system internals and security.
+But mostly i love to combine CREATIVITY and KNOWLEDGE to create usefull and beatifull things (not only low level).
 
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&cacheSeconds=3600" />
