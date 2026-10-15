@@ -72,7 +72,7 @@ Boards need consoles and products need front ends. These are the ones I build ar
 ###  [OneBox](https://github.com/stek765/OneBox)
 A macOS menu bar app that puts WhatsApp, Telegram, Slack, Discord, Proton Mail and LinkedIn in one panel, and only lets through the notifications you care about: regex filters per service, quiet hours, zero runtime dependencies.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stek765/OneBox/main/docs/menubar.gif" alt="OneBox" width="650"/>
+  <img src="https://raw.githubusercontent.com/stek765/OneBox/main/assets/logo.png" alt="OneBox logo" width="160"/>
 </p>
 <hr>
 
