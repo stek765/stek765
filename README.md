@@ -72,7 +72,7 @@ Boards need consoles and products need front ends. These are the ones I build ar
 ###  [OneBox](https://github.com/stek765/OneBox)
 A macOS menu bar app that puts WhatsApp, Telegram, Slack, Discord, Proton Mail and LinkedIn in one panel, and only lets through the notifications you care about: regex filters per service, quiet hours, zero runtime dependencies.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stek765/OneBox/main/assets/logo.png" alt="OneBox logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/stek765/OneBox/main/assets/logo.png" alt="OneBox logo" width="240"/>
 </p>
 <hr>
 
@@ -81,7 +81,7 @@ A macOS menu bar app that puts WhatsApp, Telegram, Slack, Discord, Proton Mail a
 ###  [winnow](https://github.com/stek765/winnow)
 A filter for the Instagram posts you save: it reads every slide of a carousel, checks each repo or model it names at the source, and weighs it against a profile you write. It doesn't summarize, it throws things out.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stek765/winnow/main/assets/winnow-demo.gif" alt="winnow" width="650"/>
+  <img src="https://raw.githubusercontent.com/stek765/winnow/main/assets/winnow-demo.gif" alt="winnow" width="510"/>
 </p>
 <hr>
 
@@ -91,8 +91,8 @@ A filter for the Instagram posts you save: it reads every slide of a carousel, c
 AirDrop for machines with no screen: a terminal app that finds peers on the LAN via mDNS and sends files over TLS, with a fingerprint you confirm by eye. Built for a Raspberry Pi or server you only reach over SSH.
 <table align="center" border="0">
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/bdf211e6-6974-4ae2-b52d-c287c5493caa" alt="Airdrop CLI: sending" width="100%"/><br><sub>Send</sub></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/47f1b605-5ad5-4bcd-83a9-7f09d66ac516" alt="Airdrop CLI: receiving" width="100%"/><br><sub>Receive</sub></td>  
+    <td align="center"><img src="https://github.com/user-attachments/assets/bdf211e6-6974-4ae2-b52d-c287c5493caa" alt="Airdrop CLI: sending" width="380"/><br><sub>Send</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/47f1b605-5ad5-4bcd-83a9-7f09d66ac516" alt="Airdrop CLI: receiving" width="380"/><br><sub>Receive</sub></td>  
   </tr>
 </table>
 <hr>
@@ -102,7 +102,7 @@ AirDrop for machines with no screen: a terminal app that finds peers on the LAN 
 ###  [Temperature Tracker on Ethereum](https://github.com/stek765/Temperature-Tracker-on-Ethereum)
 A Solidity smart contract that records temperature readings from authorized IoT sensors on-chain, with access control and an automatic alert status, so nobody who runs the server can quietly rewrite the data.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/stek765/Temperature-Tracker-on-Ethereum/main/assets/architecture-flow.svg" alt="Temperature Tracker: deploy and interaction flow" width="700"/>
+    <img src="https://raw.githubusercontent.com/stek765/Temperature-Tracker-on-Ethereum/main/assets/architecture-flow.svg" alt="Temperature Tracker: deploy and interaction flow" width="552"/>
 </p>
 <hr>
 
@@ -111,7 +111,7 @@ A Solidity smart contract that records temperature readings from authorized IoT 
 ###  [Portable CAN Bus Sniffer](https://github.com/stek765/Portable-CAN-bus-Sniffer)
 A standalone CAN bus sniffer: an MCP2515 reads real frames over SPI, an Arduino decodes ID, length and payload, and shows them live on a 16×2 LCD and serial, no PC needed.
 <p align="center">
-    <img width="2800" height="720" alt="can-sniffer" src="https://github.com/user-attachments/assets/76a5c2e3-5b02-4455-a3d9-18aad3a44e27" />
+    <img width="760" alt="can-sniffer" src="https://github.com/user-attachments/assets/76a5c2e3-5b02-4455-a3d9-18aad3a44e27" />
 </p>
 <hr>
 
@@ -120,7 +120,7 @@ A standalone CAN bus sniffer: an MCP2515 reads real frames over SPI, an Arduino 
 ###  [Add Wi-Fi on Printers](https://github.com/stek765/Adding-Wi-Fi-to-Printers)  
 Fixing the problem of NON_WIFI printers, so that they can recieve files from a LAN.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a0946e1d-9718-4c6c-8316-e70fdceef021" alt="WFP" width="400"/>
+  <img src="https://github.com/user-attachments/assets/a0946e1d-9718-4c6c-8316-e70fdceef021" alt="WFP" width="360"/>
 </p>  
 <hr>
 
@@ -129,35 +129,35 @@ Fixing the problem of NON_WIFI printers, so that they can recieve files from a L
 ###  [Visual Cryptography](https://github.com/stek765/visual-cryptography)  
 Visual Cryptography in Python — splitting an image into two random shares that reveal nothing on their own, yet reconstruct perfectly when overlaid.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9b9c47bc-6ef2-465e-b443-8a44740388eb" alt="VC" width="400"/>
+  <img src="https://github.com/user-attachments/assets/9b9c47bc-6ef2-465e-b443-8a44740388eb" alt="VC" width="240"/>
 </p>  
 <hr>
 
 ###  [FirmBox-Gateway](https://github.com/stek765/FirmBox-Gateway)  
 A local IoT gateway that monitors light via STM32 and shares real-time sensor data and controls over MQTT and a secure Flask dashboard.
 <p align="center">
-<img src="https://github.com/user-attachments/assets/88ab8731-dce1-4559-97c1-71feca898e13" alt="Firmbox-Gateaway" width="400"/>
+<img src="https://github.com/user-attachments/assets/88ab8731-dce1-4559-97c1-71feca898e13" alt="Firmbox-Gateaway" width="360"/>
 </p>  
 <hr>
 
 ###  [PGP-implementation](https://github.com/stek765/PGP-implementation)  
 An implementation of the Pretty Good Privacy (PGP) protocol for sending emails securely, ensuring **Confidentiality, Integrity, and Authenticity**.  
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c8882ba4-c2c5-4351-9f49-3359c6d18c4e" alt="PGP Illustration" width="400"/>
+<img src="https://github.com/user-attachments/assets/c8882ba4-c2c5-4351-9f49-3359c6d18c4e" alt="PGP Illustration" width="241"/>
 </p>  
 <hr>
 
 ###  [Python-learning](https://github.com/stek765/Python-learning)  
 A hands-on journey through Python: from prints and data structures to OOP, decorators, error handling, files, and small projects.  
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="250"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="240"/>
 </p>  
 <hr>
 
 ###  [C-learning](https://github.com/stek765/C-learning)  
 A practical journey to learn the C programming language through examples, notes, and structured practice. It covers memory, structs, pointers, function pointers, and even ADTs.  
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b404ce45-e485-4583-b89d-a4dea663dbc4" alt="C logo" width="400"/>
+<img src="https://github.com/user-attachments/assets/b404ce45-e485-4583-b89d-a4dea663dbc4" alt="C logo" width="240"/>
 </p>
 <hr>
 
@@ -165,21 +165,21 @@ A practical journey to learn the C programming language through examples, notes,
 ###  [C-pp-learning](https://github.com/stek765/C-pp-learning)  
 My path to modern C++: syntax, STL, RAII, move semantics, templates, and practical exercises to write safe and expressive code.  
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="250"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="213"/>
 </p>  
 <hr>
 
 ###  [RUST-learning](https://github.com/stek765/RUST-learning)  
 A comprehensive journey through the Rust programming language, featuring projects and exercises inspired by "The Rust Programming Language" book.  
 <p align="center">
-<img src="https://github.com/user-attachments/assets/09f5b0d1-8f71-4bd1-aa74-dd95e0f52891" alt="Rust Logo" width="400"/>
+<img src="https://github.com/user-attachments/assets/09f5b0d1-8f71-4bd1-aa74-dd95e0f52891" alt="Rust Logo" width="360"/>
 </p>  
 <hr>
 
 ###  [ASSEMBLY-learning](https://github.com/stek765/ASSEMBLY-learning)  
 A hands-on journey into low-level programming with x86-64 Assembly, exploring system calls, memory management, and the inner workings of modern computers.  
 <p align="center">  
-<img src="https://github.com/user-attachments/assets/8b054e0c-4a96-4ed8-8834-f7906385aa52" alt="Assembly Icon" width="400"/>  
+<img src="https://github.com/user-attachments/assets/8b054e0c-4a96-4ed8-8834-f7906385aa52" alt="Assembly Icon" width="240"/>  
 </p>  
 <hr>
 
