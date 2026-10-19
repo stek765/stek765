@@ -1,4 +1,4 @@
-<h1 align="center">Stefano Zanolli</h1>
+<p align="center"><img src="assets/header.svg" alt="Stefano Zanolli — firmware developer, embedded security, CRA / RED compliance" width="100%"></p>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=4DA3FF&center=true&vCenter=true&width=520&lines=Firmware+Developer;Embedded+Security;CRA+%2F+RED+Compliance;Reverse+engineering+%26+crypto" alt="Typing SVG" />
