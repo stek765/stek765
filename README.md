@@ -19,12 +19,7 @@ But mostly i love to combine CREATIVITY and KNOWLEDGE to create usefull and beat
 
 
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stek765/stek765/output/github-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/stek765/stek765/output/github-snake.svg" />
-  </picture>
-</p>
+
 
 
 ## Interfaces for Hardware
